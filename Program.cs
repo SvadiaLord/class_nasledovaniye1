@@ -42,6 +42,20 @@ namespace classnasledovaniye1
 
             motorcycle.DisplayInfo();
             motorcycle.Brum();
+
+            Circle circle = new Circle();
+            circle.CalculateArea();
+
+            Rectangle rectangle = new Rectangle();
+            rectangle.CalculateArea();
+
+            Employee employee = new Employee("ААВАВВАВА", 15000);
+            Manager manager = new Manager();
+            manager.DisplayInfo();
+
+            Developer developer = new Developer();
+            developer.DisplayInfo();
+
         }
 
     }

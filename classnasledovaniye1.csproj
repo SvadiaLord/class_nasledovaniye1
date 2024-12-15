@@ -46,8 +46,14 @@
     <Compile Include="core\Animal.cs" />
     <Compile Include="core\Car.cs" />
     <Compile Include="core\Cat.cs" />
+    <Compile Include="core\Circle.cs" />
+    <Compile Include="core\Developer.cs" />
     <Compile Include="core\Dog.cs" />
+    <Compile Include="core\Employee.cs" />
+    <Compile Include="core\Manager.cs" />
     <Compile Include="core\Motorcycle.cs" />
+    <Compile Include="core\Rectangle.cs" />
+    <Compile Include="core\Shape.cs" />
     <Compile Include="core\Vehicle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
